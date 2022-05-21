@@ -27,5 +27,6 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  ##
   
-  <img align="center" height"30" width"40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fzetsunii%2Fart%2FLeague-of-Legends-Zed-Gif-584925125&psig=AOvVaw16LEIU7Indut5Lgc7erVPQ&ust=1653182816964000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCppYe47_cCFQAAAAAdAAAAABAI">
+  <img align="center" width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/599a3e7b-2385-49a5-83a6-0726ac9633e7/d9o8z45-969c45a6-8a4b-4c9a-bea0-eb29aaaabfcc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU5OWEzZTdiLTIzODUtNDlhNS04M2E2LTA3MjZhYzk2MzNlN1wvZDlvOHo0NS05NjljNDVhNi04YTRiLTRjOWEtYmVhMC1lYjI5YWFhYWJmY2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U0Iox9GtOuoVng92E-DeiawYr5n1ND9qHqyEt1YnpKU">
+  <img align="center" width="100%" src="https://c.tenor.com/_8nBzKUz6JAAAAAC/zed.gif">
 </div>
