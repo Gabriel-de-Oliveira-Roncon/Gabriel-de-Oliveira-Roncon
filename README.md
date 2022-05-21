@@ -14,7 +14,7 @@
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Biel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Biel-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Biel-Dart" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Biel-Flutter" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
   
   ##
@@ -25,5 +25,7 @@
   <a href = "gabrieloliv.cnp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+ ##
+  
+  <img align="center" height"30" width"40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fzetsunii%2Fart%2FLeague-of-Legends-Zed-Gif-584925125&psig=AOvVaw16LEIU7Indut5Lgc7erVPQ&ust=1653182816964000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCppYe47_cCFQAAAAAdAAAAABAI">
 </div>
