@@ -4,7 +4,7 @@
 - 📫 How to reach me: gabriel.roncon@etec.sp.gov.br
 - 😄 Pronouns: ele/dele
 - <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Gabriel-de-Oliveira-Roncon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-de-Oliveira-Roncon&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-de-Oliveira-Roncon&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
